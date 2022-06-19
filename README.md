@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hephzihub
-- 👀 I’m interested in Web development in general. I'm a newbie though but to do something nice with ASP.NET in the future
+- 👀 I’m interested in Web development in general. I'm a newbie though but looking to do something nice with ASP.NET in the future
 - 🌱 I’m currently learning Front-end Development(HTML, CSS, Javascript, React, PHP(WORDPRESS)
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me via mail @oluwasheges@gmail.com
